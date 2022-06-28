@@ -1,6 +1,6 @@
 <h1 align="center">AutoReport</h1>
 
-### [+] Created By <a href="https://github.com/KasRoudra">KasRoudra</a>
+### This project is discontinued now! It will be no longer maintained
 
 <p align="center">
   <img src="https://img.shields.io/github/stars/KasRoudra/autoreport?color=orange&style=for-the-badge">
